@@ -1,1 +1,1 @@
-# stock-management-react-application-for-all-businesses
+# erp-stock-management-react-application-for-all-businesses
